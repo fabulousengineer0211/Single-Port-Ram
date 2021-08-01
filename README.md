@@ -1,2 +1,1 @@
-# Simple Single port ram designed using Vhdl
-Here's my first coding repository..i am learning how to use github!
+# I am learning how to use github!..This repository is about, Simple Single port ram, 128 bit designed using Vhdl.
